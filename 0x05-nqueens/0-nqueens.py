@@ -3,6 +3,7 @@
 import sys
 
 
+#theMaskedOtaku
 class NQueen:
     """ Class for solving N Queen Problem """
 
