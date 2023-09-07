@@ -9,7 +9,6 @@ def makeChange(coins, total):
     """
     if total <= 0:
         return 0
-
     else:
         coin = sorted(coins)
         coin.reverse()
